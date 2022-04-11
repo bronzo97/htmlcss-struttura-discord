@@ -124,7 +124,7 @@
 .footer-square-3,
 .footer-square-4,
 .footer-square-5 {
-    min-width: 100px;
+    min-width: calc((100% - 30%) / 4);
     min-height: 250px;
     border: 1px dashed #000;
    }
